@@ -1,0 +1,8 @@
+C:\Users\ASUS\source\repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\YoutubeEgitim.exe.config
+C:\Users\ASUS\source\repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\YoutubeEgitim.exe
+C:\Users\ASUS\source\repos\YoutubeEgitim\YoutubeEgitim\bin\Debug\YoutubeEgitim.pdb
+C:\Users\ASUS\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\YoutubeEgitim.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\YoutubeEgitim.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\YoutubeEgitim.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\YoutubeEgitim.exe
+C:\Users\ASUS\source\repos\YoutubeEgitim\YoutubeEgitim\obj\Debug\YoutubeEgitim.pdb
